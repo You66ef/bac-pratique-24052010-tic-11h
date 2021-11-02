@@ -1,0 +1,17 @@
+.testa{
+    border: 4px solid #73AD21;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+fieldset{
+    position: absolute;
+    
+    font-size: 18px; 
+}
